@@ -1,0 +1,19 @@
+
+> playable-template@1.4.0 dev
+> vite --config vite/config.dev.mjs --host 127.0.0.1
+
+Port 8080 is in use, trying another one...
+
+  [32m[1mVITE[22m v6.1.1[39m  [2mready in [0m[1m298[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m8081[22m/[39m
+[2m7:17:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2marrow-game-2026-06-18T11-07-15-290Z.html[22m
+[2m7:17:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2marrow-game-2026-06-18T11-07-15-290Z.html[22m
+[2m7:17:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2marrow-game-2026-06-18T11-07-15-290Z.html[22m
+[2m7:25:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m7:25:42 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m7:29:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m7:29:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m7:31:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m7:31:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m7:32:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m

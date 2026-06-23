@@ -1,0 +1,31 @@
+
+> playable-template@1.4.0 dev
+> vite --config vite/config.dev.mjs
+
+Port 8080 is in use, trying another one...
+Port 8081 is in use, trying another one...
+
+  [32m[1mVITE[22m v6.1.1[39m  [2mready in [0m[1m371[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m8082[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m11:10:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:10:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:10:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:11:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/Game.js[22m
+[2m11:11:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:12:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:12:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:13:32 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/Game.js[22m
+[2m11:14:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/Game.js[22m
+[2m11:16:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/game/ArrowBoxGame.js[22m
+[2m11:16:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/Game.js[22m
+[2m11:17:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/Game.js[22m
+[2m11:17:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:17:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:17:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:20:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/scenes/Game.js[22m
+[2m11:20:32 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:20:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:23:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
+[2m11:23:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdist-inline-applovin/index.html[22m
